@@ -3,6 +3,7 @@
 ### Compiled files
 __pycache__/
 *.py[cod]
+.ipynb_checkpoints
 
 ### Virtual environment
 venv
