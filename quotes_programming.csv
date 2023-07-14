@@ -1,0 +1,2 @@
+"""A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step.""","François Chollet, Creator of Keras"
+  
