@@ -1,2 +1,3 @@
-"""A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step.""","François Chollet, Creator of Keras"
-  
+"A key design principle I follow in libraries (e.g. Keras) is 'progressive disclosure of complexity'. Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step.","François Chollet, Creator of Keras"
+"The one thing that's super important is investing high quality documentation compared to developing new features.","François Chollet, Creator of Keras"
+"If the cognitive load of a workflow is sufficiently low, it should be possible for a user to go through it from memory without looking up a tutorial of documentation after having done it once or twice","François Chollet, Creator of Keras"
